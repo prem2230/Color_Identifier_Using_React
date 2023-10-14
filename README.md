@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# Color and Color names identifier using ReactJS
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
